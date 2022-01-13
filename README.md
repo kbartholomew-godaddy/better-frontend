@@ -16,7 +16,7 @@ The format of Better Front-end discussions is loosely modeled on the educational
 
 Open an issue and give it the `topic` label! Include a description of the topic you’d like to discuss. You should provide enough context in your description that others can understand the topic ahead of time and come prepared with thoughts or questions.
 
-[See all pending topic requests](issues)
+[See all pending topic requests](https://github.com/kbartholomew-godaddy/better-frontend/labels/topic)
 
 ### Guidelines for good topics
 
